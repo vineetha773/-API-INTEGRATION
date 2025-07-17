@@ -11,3 +11,38 @@
 *DURATION*: 8 WEEKS
 
 *MENTOR*: NEELA SANTOSH
+
+#  Real-Time Collaborative Document Editor - API
+
+This is the backend API for the Real-Time Collaborative Document Editor. 
+
+It provides real-time editing functionality using WebSockets (via Socket.IO) and REST APIs for saving/loading documents.
+
+
+##  Features
+
+- Real-time document synchronization using **Socket.IO**
+- 
+- RESTful APIs for CRUD operations
+- 
+- MongoDB or PostgreSQL integration for persistent storage
+- 
+- CORS enabled for frontend integration
+
+
+## Tech Stack
+
+- **Node.js**
+  
+- **Express.js**
+  
+- **Socket.IO**
+  
+- **MongoDB** (via Mongoose) or **PostgreSQL** (via Sequelize)
+ 
+- **CORS**
+
+
+# output
+
+
