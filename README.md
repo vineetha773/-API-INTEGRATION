@@ -22,11 +22,11 @@ It provides real-time editing functionality using WebSockets (via Socket.IO) and
 ##  Features
 
 - Real-time document synchronization using **Socket.IO**
-- 
+
 - RESTful APIs for CRUD operations
-- 
+
 - MongoDB or PostgreSQL integration for persistent storage
-- 
+
 - CORS enabled for frontend integration
 
 
@@ -45,4 +45,7 @@ It provides real-time editing functionality using WebSockets (via Socket.IO) and
 
 # output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6d7846a7-c8db-4c83-ae9b-f4cfb386873e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8c66af71-b91d-4317-9a3a-f8d17e9dbe0f" />
 
