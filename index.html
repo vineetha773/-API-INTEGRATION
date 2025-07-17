@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simple Weather App</title>
+  
+  <!-- Forgot what this was for at first... -->
+  <link rel="stylesheet" href="styles.css">
+  </head>
+<body>
+  <div class="container">
+    <!-- Header just to make it look fancy -->
+    <h1>Weather Forecast</h1>
+
+    <!-- City input form -->
+    <form id="weatherForm">
+      <!-- Not sure if I should default this or leave it blank -->
+      <input 
+        type="text" 
+        id="cityInput" 
+        placeholder="Enter city name..." 
+        required
+      />
+      <button type="submit">Get Weather</button>
+    </form>
+
+    <!-- Will show the result here -->
+    <div id="weatherResult" class="result">
+      <!-- populated via JS -->
+    </div>
+  </div>
+
+  <!-- Moved this down here just to keep scripts at the end -->
+  <script src="script.js"></script>
+</body>
+</html>
