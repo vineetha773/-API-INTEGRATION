@@ -12,6 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
+# DESCRIPTION
+
 #  Responsive Webpage with API Data
 
 This project is a responsive webpage that dynamically fetches and displays data from a public API. For demonstration, it uses the **OpenWeatherMap API** to show current weather information for a given city.
@@ -35,7 +37,7 @@ This project is a responsive webpage that dynamically fetches and displays data 
 - You’ll need to sign up and get a **free API key**.
 
 
-# output
+# OUTPUT
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6d7846a7-c8db-4c83-ae9b-f4cfb386873e" />
 
