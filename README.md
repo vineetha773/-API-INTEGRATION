@@ -12,35 +12,27 @@
 
 *MENTOR*: NEELA SANTOSH
 
-#  Real-Time Collaborative Document Editor - API
+#  Responsive Webpage with API Data
 
-This is the backend API for the Real-Time Collaborative Document Editor. 
-
-It provides real-time editing functionality using WebSockets (via Socket.IO) and REST APIs for saving/loading documents.
-
+This project is a responsive webpage that dynamically fetches and displays data from a public API. For demonstration, it uses the **OpenWeatherMap API** to show current weather information for a given city.
 
 ##  Features
 
-- Real-time document synchronization using **Socket.IO**
-
-- RESTful APIs for CRUD operations
-
-- MongoDB or PostgreSQL integration for persistent storage
-
-- CORS enabled for frontend integration
-
-
-## Tech Stack
-
-- **Node.js**
+- Fetches real-time data from a public API (Weather, News, etc.)
   
-- **Express.js**
+- Dynamically updates the DOM with fetched data
   
-- **Socket.IO**
+- Mobile-responsive design using CSS Flexbox/Grid
   
-- **MongoDB** (via Mongoose) or **PostgreSQL** (via Sequelize)
- 
-- **CORS**
+- Clear and clean UI with loading/error handling
+
+##  Demo API Used
+
+**OpenWeatherMap API**
+
+- Website: https://openweathermap.org/api.
+  
+- You’ll need to sign up and get a **free API key**.
 
 
 # output
